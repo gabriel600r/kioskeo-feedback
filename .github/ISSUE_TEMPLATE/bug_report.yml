@@ -1,0 +1,54 @@
+name: 🐛 Reportar un bug
+description: Algo no funciona como esperabas
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por tomarte el tiempo de reportar! 🛒
+        Cuanta más info nos pases, más rápido lo arreglamos.
+
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: ¿Qué pasó?
+      description: Describí el problema con tus palabras
+      placeholder: Ej. Cuando intento cobrar con cuenta corriente, la app se cierra.
+    validations:
+      required: true
+
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para reproducirlo
+      placeholder: |
+        1. Abrí la app
+        2. Agregá un producto al carrito
+        3. Tap en Cobrar
+        4. ...
+    validations:
+      required: false
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: ¿Qué esperabas que pasara?
+    validations:
+      required: false
+
+  - type: input
+    id: dispositivo
+    attributes:
+      label: Dispositivo (modelo + Android)
+      placeholder: Samsung A52, Android 13
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Capturas o info extra
+      description: Pegá imágenes acá si tenés
+    validations:
+      required: false

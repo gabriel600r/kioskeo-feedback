@@ -1,0 +1,39 @@
+name: 💡 Sugerir una mejora
+description: Tenés una idea para hacer Kioskeo aún mejor
+title: "[Idea] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ¡Genial que tengas ideas! 🚀
+        Contanos qué te gustaría ver en Kioskeo.
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: ¿Qué te gustaría que Kioskeo pueda hacer?
+      placeholder: Ej. Poder imprimir tickets desde una impresora Bluetooth.
+    validations:
+      required: true
+
+  - type: textarea
+    id: porque
+    attributes:
+      label: ¿Por qué te serviría?
+      placeholder: Ej. Mis clientes me piden ticket impreso siempre.
+    validations:
+      required: false
+
+  - type: dropdown
+    id: tipo
+    attributes:
+      label: ¿Qué tipo de mejora es?
+      options:
+        - Nueva función
+        - Mejora visual / UX
+        - Más velocidad
+        - Integración con otra herramienta
+        - Otra
+    validations:
+      required: false
