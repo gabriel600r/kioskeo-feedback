@@ -4,19 +4,13 @@ Los cambios de cada versión de Kioskeo, tal como aparecen en "Novedades" dentro
 
 ---
 
-## [1.14.47] - 2026-10-07
+## [1.14.48] - 2026-10-07
 
-- **El anuncio, en más pantallas:** Para sostener Kioskeo gratis, el anuncio chico ahora también aparece en Caja, Clientes, Registros y Ajustes.
-- **En la venta, solo con el carrito vacío:** Con el carrito vacío se ve un anuncio chico. Apenas cargás un producto desaparece: nunca mientras cobrás. Si tenés PRO, no ves ninguno.
-
-## [1.14.46] - 2026-10-03
-
-- **El anuncio ya no se mueve:** El lugar del anuncio de abajo queda reservado desde que abrís la pantalla: ya no aparece de golpe justo donde ibas a tocar.
+- **Vender, más ágil:** Al tocar un producto, el pitido suena enseguida y la pantalla ya no se traba un instante después de agregarlo. Cargar varios productos seguidos es más fluido.
 
 ## [1.14.45] - 2026-09-25
 
 - **Todo Kioskeo, gratis:** Ventas y clientes sin límite, cuenta corriente, cierres en PDF, empleados con PIN y respaldos automáticos: ahora todo es gratis para todos.
-- **PRO ahora es sin publicidad:** Para mantener Kioskeo gratis sumamos un anuncio chico abajo, nunca en la pantalla de venta. Si tenés PRO, no ves ninguno.
 - **Precios completos en el acceso rápido:** Los botones de productos en la pantalla de venta ya no cortan los precios largos: el importe entra siempre entero, en una sola línea.
 
 ## [1.14.44] - 2026-08-03

@@ -21,18 +21,12 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
 
 ---
 
-## 🔥 NOVO NESTA VERSÃO (v1.14.47)
+## 🔥 NOVO NESTA VERSÃO (v1.14.48)
 
-- **O anúncio, em mais telas:** para manter o Kioskeo grátis, o anúncio pequeno agora também aparece em Caixa, Clientes, Relatórios e Ajustes.
-- **Na venda, só com o carrinho vazio:** com o carrinho vazio aparece um anúncio pequeno. Assim que você adiciona um produto ele some: nunca enquanto você cobra. Com PRO você não vê nenhum.
-
-### Na v1.14.46
-- **O anúncio não aparece mais onde você ia tocar:** o espaço dele fica reservado assim que a tela abre, então ele não surge de repente onde estava o botão "+".
+- **Vender, mais ágil:** ao tocar em um produto, o bipe toca na hora e a tela não trava mais por um instante depois de adicioná-lo. Adicionar vários produtos seguidos fica mais fluido.
 
 ### Na v1.14.45: tudo grátis
 - **Sem cadeados:** vendas e clientes ilimitados, fiado, fechamentos em PDF, funcionários com PIN e backups automáticos, para todos.
-- **Um anúncio pequeno** mantém o app grátis. Ele nunca aparece enquanto você cobra.
-- **PRO agora é sem anúncios:** o mesmo plano mensal, anual ou pagamento único, com 7 dias grátis.
 - **Preços completos** nos atalhos da tela de vendas.
 
 👉 **[Ver o histórico completo de mudanças (Changelog, em espanhol)](CHANGELOG.md)**
