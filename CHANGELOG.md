@@ -4,6 +4,11 @@ Los cambios de cada versión de Kioskeo, tal como aparecen en "Novedades" dentro
 
 ---
 
+## [1.14.47] - 2026-10-07
+
+- **El anuncio, en más pantallas:** Para sostener Kioskeo gratis, el anuncio chico ahora también aparece en Caja, Clientes, Registros y Ajustes.
+- **En la venta, solo con el carrito vacío:** Con el carrito vacío se ve un anuncio chico. Apenas cargás un producto desaparece: nunca mientras cobrás. Si tenés PRO, no ves ninguno.
+
 ## [1.14.46] - 2026-10-03
 
 - **El anuncio ya no se mueve:** El lugar del anuncio de abajo queda reservado desde que abrís la pantalla: ya no aparece de golpe justo donde ibas a tocar.

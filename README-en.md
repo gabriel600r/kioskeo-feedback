@@ -21,13 +21,17 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 
 ---
 
-## 🔥 NEW IN THIS VERSION (v1.14.46)
+## 🔥 NEW IN THIS VERSION (v1.14.47)
 
+- **The ad, on more screens:** to keep Kioskeo free, the small ad now also shows on Cash, Clients, Records and Settings.
+- **On the sales screen, only with an empty cart:** with an empty cart you see a small ad. As soon as you add a product it goes away: never while you charge. With PRO you see none.
+
+### In v1.14.46
 - **The ad no longer pops in where you were about to tap:** its space is set aside as soon as the screen opens, so it doesn't suddenly appear where the "+" button was.
 
 ### In v1.14.45: everything free
 - **No locks:** unlimited sales and customers, store credit, PDF closings, employees with PIN and automatic backups, for everyone.
-- **One small ad at the bottom** keeps the app free. It never appears on the sales screen.
+- **One small ad** keeps the app free. It never appears while you charge.
 - **PRO now means no ads:** same monthly, annual or one-time plan, with a 7-day free trial.
 - **Full prices** on the quick-access buttons of the sales screen.
 
@@ -100,7 +104,7 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 
 ## 💎 FREE, AND PRO WITHOUT ADS
 
-Every feature is free, with no limits. The free version shows a small ad at the bottom, never on the sales screen.
+Every feature is free, with no limits. The free version shows a small ad, never while you charge.
 
 If you'd rather not see ads, **Kioskeo PRO** removes them from the whole app and adds priority support. Monthly, annual or one-time plan, with a 7-day free trial.
 

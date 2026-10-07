@@ -21,13 +21,17 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
 
 ---
 
-## 🔥 NUEVO EN ESTA VERSIÓN (v1.14.46)
+## 🔥 NUEVO EN ESTA VERSIÓN (v1.14.47)
 
+- **El anuncio, en más pantallas:** para sostener Kioskeo gratis, el anuncio chico ahora también aparece en Caja, Clientes, Registros y Ajustes.
+- **En la venta, solo con el carrito vacío:** con el carrito vacío se ve un anuncio chico. Apenas cargás un producto desaparece: nunca mientras cobrás. Si tenés PRO, no ves ninguno.
+
+### En la v1.14.46
 - **El anuncio ya no aparece donde ibas a tocar:** su lugar queda reservado desde que abrís la pantalla, así no aparece de golpe justo donde estaba el botón "+".
 
 ### En la v1.14.45: todo gratis
 - **Sin candados:** ventas y clientes ilimitados, cuenta corriente, cierres en PDF, empleados con PIN y respaldos automáticos, para todos.
-- **Un anuncio chico abajo** sostiene la app gratis. Nunca aparece en la pantalla de venta.
+- **Un anuncio chico** sostiene la app gratis. Nunca aparece mientras cobrás.
 - **PRO ahora es sin publicidad:** mismo plan mensual, anual o pago único, con 7 días gratis.
 - **Precios completos** en los accesos rápidos de la pantalla de venta.
 
@@ -98,7 +102,7 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
 
 ## 💎 GRATIS, Y PRO SIN PUBLICIDAD
 
-Todas las funciones son gratis y sin límites. La versión gratis muestra un anuncio chico abajo, nunca en la pantalla de venta.
+Todas las funciones son gratis y sin límites. La versión gratis muestra un anuncio chico, nunca mientras cobrás.
 
 Si preferís no ver publicidad, **Kioskeo PRO** la saca de toda la app y suma soporte prioritario. Plan mensual, anual o pago único, con 7 días gratis.
 
