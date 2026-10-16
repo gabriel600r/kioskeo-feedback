@@ -17,13 +17,15 @@
 
 <br/>
 
-A point of sale (POS) for convenience stores, corner shops and small businesses, using just the phone you already have: your register, stock, prices, customers and daily closing. No PC, no expensive scanners, no endless subscriptions. It works 100% offline and everything stays on your phone.
+A point of sale (POS) for convenience stores, corner shops and small businesses, using just the phone you already have: your register, stock, prices, customers and daily closing. No hardware, no installers, no endless subscriptions. It works 100% offline and everything stays on your phone.
 
 ---
 
-## 🔥 NEW IN THIS VERSION (v1.14.48)
+## 🔥 NEW IN THIS VERSION (v1.15.0)
 
-- **Selling, snappier:** when you tap a product the beep now plays right away and the screen no longer stalls for an instant after adding it. Adding several products in a row feels smoother.
+- **Your shop on the computer:** in More → Use on your computer, open Kioskeo in the browser of a computer on your Wi-Fi. See the cart, products, register and reports on a big screen; with PRO you can also sell, charge and edit from there.
+- **Your phone as the barcode reader:** with the computer open, tap “Use the phone as the reader”: scan one barcode after another and each product shows up on the computer instantly.
+- **With PRO: print, and your name up top:** from the computer, print each sale's receipt, the closings and the reports on your receipt printer. And tap the pencil at the top so it shows your kiosk's name instead of Kioskeo.
 
 ### In v1.14.45: everything free
 - **No locks:** unlimited sales and customers, store credit, PDF closings, employees with PIN and automatic backups, for everyone.
@@ -49,6 +51,11 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
   <img src="./assets/ficha/8.png" width="23%" alt="PIN login"/>
 </div>
 
+<div align="center">
+  <img src="./assets/ficha/compu-1.png" width="48%" alt="On the computer: selling"/>
+  <img src="./assets/ficha/compu-2.png" width="48%" alt="On the computer: reports"/>
+</div>
+
 <sub>Screenshots of the Spanish version.</sub>
 
 ---
@@ -60,6 +67,12 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 - Favorites for your best sellers, and a beep on scan like a supermarket register.
 - Cash, bank transfer, card or store credit, with a change calculator.
 - Discounts with a reason, and double confirmation above a threshold.
+
+### 💻 On the computer
+- Open Kioskeo in the browser of a computer on your Wi-Fi, nothing to install.
+- Your phone scans the barcodes and each product shows up on the computer instantly.
+- Cart, products, register and reports on a big screen.
+- With PRO, sell, charge and edit from the computer, USB scanner included.
 
 ### 📦 Products
 - Start with 716 typical convenience store products, with barcodes and reference prices.
@@ -98,9 +111,9 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 
 ## 💎 FREE, AND PRO WITHOUT ADS
 
-Every feature is free, with no limits. The free version shows a small ad, never while you charge.
+Every phone feature is free, with no limits. The free version shows a small ad, never while you charge.
 
-If you'd rather not see ads, **Kioskeo PRO** removes them from the whole app and adds priority support. Monthly, annual or one-time plan, with a 7-day free trial.
+If you'd rather not see ads, **Kioskeo PRO** removes them from the whole app and adds: selling, charging and editing from the computer; printing receipts, closings and reports from the computer; your kiosk's name up top; and priority support. Monthly, annual or one-time plan, with a 7-day free trial.
 
 ---
 

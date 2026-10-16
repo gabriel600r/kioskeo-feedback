@@ -17,13 +17,15 @@
 
 <br/>
 
-Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el celular que ya tenés: la caja, el stock, los precios, los clientes y el cierre diario. Sin PC, sin lectores caros, sin abonos eternos. Funciona 100% offline y todo queda guardado en tu teléfono.
+Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el celular que ya tenés: la caja, el stock, los precios, los clientes y el cierre diario. Sin hardware caro, sin instaladores, sin cuotas eternas. Funciona 100% offline y todo queda guardado en tu teléfono.
 
 ---
 
-## 🔥 NUEVO EN ESTA VERSIÓN (v1.14.48)
+## 🔥 NUEVO EN ESTA VERSIÓN (v1.15.0)
 
-- **Vender, más ágil:** al tocar un producto, el pitido suena enseguida y la pantalla ya no se traba un instante después de agregarlo. Cargar varios productos seguidos es más fluido.
+- **Tu comercio en la computadora:** en Más → Usar en la computadora, abrí Kioskeo en el navegador de una compu conectada a tu Wi-Fi. Mirás el carrito, los productos, la caja y los reportes en pantalla grande; con PRO, también vendés, cobrás y editás desde ahí.
+- **El celular, lector de códigos:** con la compu abierta, tocá «Usar el teléfono como lector»: leés un código tras otro y cada producto aparece en la compu al instante.
+- **Con PRO: imprimí y poné tu nombre:** desde la compu imprimí el comprobante de cada venta, los cierres y los reportes en tu impresora de tickets. Y tocá el lápiz de arriba para que diga el nombre de tu kiosco en vez de Kioskeo.
 
 ### En la v1.14.45: todo gratis
 - **Sin candados:** ventas y clientes ilimitados, cuenta corriente, cierres en PDF, empleados con PIN y respaldos automáticos, para todos.
@@ -49,6 +51,11 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
   <img src="./assets/ficha/8.png" width="23%" alt="Ingreso con PIN"/>
 </div>
 
+<div align="center">
+  <img src="./assets/ficha/compu-1.png" width="48%" alt="En la compu: vender"/>
+  <img src="./assets/ficha/compu-2.png" width="48%" alt="En la compu: reportes"/>
+</div>
+
 ---
 
 ## 🛠️ FUNCIONES
@@ -58,6 +65,12 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
 - Favoritos para los productos que más vendés y beep al escanear, como en la caja del súper.
 - Efectivo, transferencia, tarjeta o cuenta corriente, con calculadora de vuelto.
 - Descuentos con motivo y doble confirmación si superan un umbral.
+
+### 💻 En la compu
+- Abrí Kioskeo en el navegador de una compu de tu Wi-Fi, sin instalar nada.
+- El celu lee los códigos y cada producto aparece en la compu al instante.
+- Carrito, productos, caja y reportes en pantalla grande.
+- Con PRO, vendé, cobrá y editá desde la compu, también con lector USB.
 
 ### 📦 Productos
 - Arrancás con 716 productos típicos de kiosco, con código de barras y precios de referencia.
@@ -96,9 +109,9 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
 
 ## 💎 GRATIS, Y PRO SIN PUBLICIDAD
 
-Todas las funciones son gratis y sin límites. La versión gratis muestra un anuncio chico, nunca mientras cobrás.
+Todas las funciones del celular son gratis y sin límites. La versión gratis muestra un anuncio chico, nunca mientras cobrás.
 
-Si preferís no ver publicidad, **Kioskeo PRO** la saca de toda la app y suma soporte prioritario. Plan mensual, anual o pago único, con 7 días gratis.
+Si preferís no ver publicidad, **Kioskeo PRO** la saca de toda la app y suma: vender, cobrar y editar desde la compu; imprimir desde la compu comprobantes, cierres y reportes; el nombre de tu kiosco arriba; y soporte prioritario. Plan mensual, anual o pago único, con 7 días gratis.
 
 ---
 

@@ -4,6 +4,12 @@ Los cambios de cada versión de Kioskeo, tal como aparecen en "Novedades" dentro
 
 ---
 
+## [1.15.0] - 2026-10-16
+
+- **Tu comercio en la computadora:** En Más → Usar en la computadora, abrí Kioskeo en el navegador de una compu conectada a tu Wi-Fi. Mirás el carrito, los productos, la caja y los reportes en pantalla grande; con PRO, también vendés, cobrás y editás desde ahí.
+- **El celular, lector de códigos:** Con la compu abierta, tocá «Usar el teléfono como lector»: leés un código tras otro y cada producto aparece en la compu al instante.
+- **Con PRO: imprimí y poné tu nombre:** Desde la compu imprimí el comprobante de cada venta, los cierres y los reportes en tu impresora de tickets. Y tocá el lápiz de arriba para que diga el nombre de tu kiosco en vez de Kioskeo.
+
 ## [1.14.48] - 2026-10-07
 
 - **Vender, más ágil:** Al tocar un producto, el pitido suena enseguida y la pantalla ya no se traba un instante después de agregarlo. Cargar varios productos seguidos es más fluido.

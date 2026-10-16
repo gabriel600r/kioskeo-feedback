@@ -17,13 +17,15 @@
 
 <br/>
 
-Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o celular que você já tem: caixa, estoque, preços, clientes e fechamento do dia. Sem PC, sem leitores caros, sem mensalidades intermináveis. Funciona 100% offline e tudo fica salvo no seu celular.
+Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o celular que você já tem: caixa, estoque, preços, clientes e fechamento do dia. Sem hardware caro, sem instaladores, sem mensalidades intermináveis. Funciona 100% offline e tudo fica salvo no seu celular.
 
 ---
 
-## 🔥 NOVO NESTA VERSÃO (v1.14.48)
+## 🔥 NOVO NESTA VERSÃO (v1.15.0)
 
-- **Vender, mais ágil:** ao tocar em um produto, o bipe toca na hora e a tela não trava mais por um instante depois de adicioná-lo. Adicionar vários produtos seguidos fica mais fluido.
+- **Sua loja no computador:** em Mais → Usar no computador, abra o Kioskeo no navegador de um computador do seu Wi-Fi. Veja o carrinho, os produtos, o caixa e os relatórios na tela grande; com PRO, também venda, cobre e edite por lá.
+- **O celular como leitor de códigos:** com o computador aberto, toque em «Usar o celular como leitor»: leia um código atrás do outro e cada produto aparece no computador na hora.
+- **Com PRO: imprima e coloque seu nome:** pelo computador, imprima o comprovante de cada venda, os fechamentos e os relatórios na sua impressora de cupons. E toque no lápis lá em cima para aparecer o nome do seu negócio em vez de Kioskeo.
 
 ### Na v1.14.45: tudo grátis
 - **Sem cadeados:** vendas e clientes ilimitados, fiado, fechamentos em PDF, funcionários com PIN e backups automáticos, para todos.
@@ -49,6 +51,11 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
   <img src="./assets/ficha/8.png" width="23%" alt="Entrada com PIN"/>
 </div>
 
+<div align="center">
+  <img src="./assets/ficha/compu-1.png" width="48%" alt="No computador: vender"/>
+  <img src="./assets/ficha/compu-2.png" width="48%" alt="No computador: relatórios"/>
+</div>
+
 <sub>Capturas da versão em espanhol.</sub>
 
 ---
@@ -60,6 +67,12 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
 - Favoritos para os produtos que mais vendem e bipe ao escanear, como no caixa do supermercado.
 - Dinheiro, transferência, cartão ou fiado, com calculadora de troco.
 - Descontos com motivo e confirmação dupla acima de um limite.
+
+### 💻 No computador
+- Abra o Kioskeo no navegador de um computador do seu Wi-Fi, sem instalar nada.
+- O celular lê os códigos e cada produto aparece no computador na hora.
+- Carrinho, produtos, caixa e relatórios na tela grande.
+- Com PRO, venda, cobre e edite pelo computador, também com leitor USB.
 
 ### 📦 Produtos
 - Comece com 716 produtos típicos de mercadinho, com código de barras e preços de referência.
@@ -98,9 +111,9 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
 
 ## 💎 GRÁTIS, E PRO SEM ANÚNCIOS
 
-Todas as funções são grátis e sem limites. A versão grátis mostra um anúncio pequeno, nunca enquanto você cobra.
+Todas as funções do celular são grátis e sem limites. A versão grátis mostra um anúncio pequeno, nunca enquanto você cobra.
 
-Se preferir não ver anúncios, o **Kioskeo PRO** tira a publicidade de todo o app e inclui suporte prioritário. Plano mensal, anual ou pagamento único, com 7 dias grátis.
+Se preferir não ver anúncios, o **Kioskeo PRO** tira a publicidade de todo o app e inclui: vender, cobrar e editar pelo computador; imprimir pelo computador cupons, fechamentos e relatórios; o nome do seu negócio no topo; e suporte prioritário. Plano mensal, anual ou pagamento único, com 7 dias grátis.
 
 ---
 
