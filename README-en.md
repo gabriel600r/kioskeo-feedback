@@ -21,8 +21,11 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 
 ---
 
-## 🔥 NEW IN THIS VERSION (v1.15.0)
+## 🔥 NEW IN THIS VERSION (v1.15.1)
 
+- **The portal stays on:** if you leave Kioskeo with Back, the computer stays connected. The portal turns off with “Stop” or after 15 minutes without use.
+
+### In v1.15.0: Kioskeo on the computer
 - **Your shop on the computer:** in More → Use on your computer, open Kioskeo in the browser of a computer on your Wi-Fi. See the cart, products, register and reports on a big screen; with PRO you can also sell, charge and edit from there.
 - **Your phone as the barcode reader:** with the computer open, tap “Use the phone as the reader”: scan one barcode after another and each product shows up on the computer instantly.
 - **With PRO: print, and your name up top:** from the computer, print each sale's receipt, the closings and the reports on your receipt printer. And tap the pencil at the top so it shows your kiosk's name instead of Kioskeo.

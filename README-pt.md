@@ -21,8 +21,11 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
 
 ---
 
-## 🔥 NOVO NESTA VERSÃO (v1.15.0)
+## 🔥 NOVO NESTA VERSÃO (v1.15.1)
 
+- **O portal continua ligado:** se você sair do Kioskeo com Voltar, o computador continua conectado. O portal desliga com «Parar» ou se ninguém usar por 15 minutos.
+
+### Na v1.15.0: o Kioskeo no computador
 - **Sua loja no computador:** em Mais → Usar no computador, abra o Kioskeo no navegador de um computador do seu Wi-Fi. Veja o carrinho, os produtos, o caixa e os relatórios na tela grande; com PRO, também venda, cobre e edite por lá.
 - **O celular como leitor de códigos:** com o computador aberto, toque em «Usar o celular como leitor»: leia um código atrás do outro e cada produto aparece no computador na hora.
 - **Com PRO: imprima e coloque seu nome:** pelo computador, imprima o comprovante de cada venda, os fechamentos e os relatórios na sua impressora de cupons. E toque no lápis lá em cima para aparecer o nome do seu negócio em vez de Kioskeo.

@@ -4,6 +4,10 @@ Los cambios de cada versión de Kioskeo, tal como aparecen en "Novedades" dentro
 
 ---
 
+## [1.15.1] - 2026-10-16
+
+- **El portal sigue prendido:** Si salís de Kioskeo con Atrás, la compu sigue conectada. El portal se apaga con «Detener» o si nadie lo usa por 15 minutos.
+
 ## [1.15.0] - 2026-10-16
 
 - **Tu comercio en la computadora:** En Más → Usar en la computadora, abrí Kioskeo en el navegador de una compu conectada a tu Wi-Fi. Mirás el carrito, los productos, la caja y los reportes en pantalla grande; con PRO, también vendés, cobrás y editás desde ahí.
