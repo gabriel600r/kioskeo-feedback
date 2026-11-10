@@ -21,8 +21,11 @@ Ponto de venda (PDV) para mercadinhos, lojas e pequenos comércios, só com o ce
 
 ---
 
-## 🔥 NOVO NESTA VERSÃO (v1.15.1)
+## 🔥 NOVO NESTA VERSÃO (v1.15.2)
 
+- **Comprar o PRO sem travar:** se o Google Play se atualizar com o Kioskeo aberto, comprar ou restaurar o PRO não fica mais travado: o Kioskeo se reconecta sozinho.
+
+### Na v1.15.1: o portal continua ligado
 - **O portal continua ligado:** se você sair do Kioskeo com Voltar, o computador continua conectado. O portal desliga com «Parar» ou se ninguém usar por 15 minutos.
 
 ### Na v1.15.0: o Kioskeo no computador

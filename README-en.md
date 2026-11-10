@@ -21,8 +21,11 @@ A point of sale (POS) for convenience stores, corner shops and small businesses,
 
 ---
 
-## 🔥 NEW IN THIS VERSION (v1.15.1)
+## 🔥 NEW IN THIS VERSION (v1.15.2)
 
+- **Buying PRO without hiccups:** if Google Play updates while Kioskeo is open, buying or restoring PRO no longer hangs: Kioskeo reconnects by itself.
+
+### In v1.15.1: the portal stays on
 - **The portal stays on:** if you leave Kioskeo with Back, the computer stays connected. The portal turns off with “Stop” or after 15 minutes without use.
 
 ### In v1.15.0: Kioskeo on the computer

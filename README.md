@@ -21,8 +21,11 @@ Punto de venta (POS) para kioscos, almacenes y comercios chicos, solo con el cel
 
 ---
 
-## 🔥 NUEVO EN ESTA VERSIÓN (v1.15.1)
+## 🔥 NUEVO EN ESTA VERSIÓN (v1.15.2)
 
+- **Comprar PRO sin trabas:** si Google Play se actualiza con Kioskeo abierto, comprar o restaurar PRO ya no se queda colgado: Kioskeo se vuelve a conectar solo.
+
+### En la v1.15.1: el portal sigue prendido
 - **El portal sigue prendido:** si salís de Kioskeo con Atrás, la compu sigue conectada. El portal se apaga con «Detener» o si nadie lo usa por 15 minutos.
 
 ### En la v1.15.0: Kioskeo en la compu

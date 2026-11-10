@@ -4,6 +4,10 @@ Los cambios de cada versión de Kioskeo, tal como aparecen en "Novedades" dentro
 
 ---
 
+## [1.15.2] - 2026-11-10
+
+- **Comprar PRO sin trabas:** Si Google Play se actualiza con Kioskeo abierto, comprar o restaurar PRO ya no se queda colgado: Kioskeo se vuelve a conectar solo.
+
 ## [1.15.1] - 2026-10-16
 
 - **El portal sigue prendido:** Si salís de Kioskeo con Atrás, la compu sigue conectada. El portal se apaga con «Detener» o si nadie lo usa por 15 minutos.
